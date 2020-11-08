@@ -2,6 +2,7 @@
 
 ## Pewlett-Hackard (PH) is preparing for the "silver tsunami" as many of its employees are approaching retirement age. As part of this preparation PH wants to understand A) the number of retiring employees by tile and B) find out what employees are eligible for the mentorship program
 
+![](./Data/retiring_titles.png).
 - PH is has recently been awarded as one of the top employers to work for in the nation. And the numbers speak for themselves. Out of approximately 94 thousand employees in retirement age over PH's history, 64% of them has reached "Senior" level titles. This is certainly something to take pride of. It is a place where hard work and integrity are recognized.
 
 - Another point to be made is that no function in specific is favored over another. When it came down to comparing functions at retirement age, both Engineers and Staff stack up high at senior level.
